@@ -2,13 +2,13 @@
 This repository contains a Automation test for frontend with Selenium WebDriver.
 
 ## Table of contents
- - [Introduction]()
- - [Requirements]()
- - [Setup]()
- - [Running Test]()
- - [Web browser]()
- - [Project structure]()
- - [Reports]()
+ - [Introduction](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#introduction)
+ - [Requirements](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#requirements)
+ - [Setup](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#setup)
+ - [Running Test](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#running-test)
+ - [Web browser](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#web-browser)
+ - [Project structure](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#project-structure)
+ - [Reports](https://github.com/stiagoq/selenium_demo/tree/main?tab=readme-ov-file#reports)
 
 ## Introduction
 This project contains automation tests with the Selenium framework using the Java programming language.
